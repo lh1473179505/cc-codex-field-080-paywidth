@@ -1,0 +1,22 @@
+{
+  "rows": [
+    {
+      "emp": "E001",
+      "period": "20260401",
+      "kind": "overtime",
+      "amount_cents": 1200
+    },
+    {
+      "emp": "E002",
+      "period": "20260401",
+      "kind": "overtime",
+      "amount_cents": -11
+    },
+    {
+      "emp": "E003",
+      "period": "20260401",
+      "kind": "bonus",
+      "amount_cents": 4500
+    }
+  ]
+}
